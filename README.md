@@ -22,3 +22,4 @@ This tool is designed for basketball players, coaches, and enthusiasts aiming to
 ## How to Run
 
 1. Install dependencies with:
+pip install opencv-python numpy pandas matplotlib scipy
