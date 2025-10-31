@@ -1,3 +1,4 @@
+
 # Basketball Shooting Posture Analysis System
 
 This project is an AI-powered basketball shooting posture analysis system compatible with Python 3.13. It enables users to analyze basketball shooting videos to evaluate shooting form quality and receive actionable feedback.
@@ -22,4 +23,16 @@ This tool is designed for basketball players, coaches, and enthusiasts aiming to
 ## How to Run
 
 1. Install dependencies with:
-- pip install opencv-python numpy pandas matplotlib scipy
+   ```
+   pip install opencv-python numpy pandas matplotlib scipy
+   ```
+2. Run the analysis script:
+   ```
+   python basketball_analyzer_final.py
+   ```
+3. Follow the prompts to select shooting hand and upload your shooting video file.
+4. Upon completion, review output files generated in the working directory.
+
+## License
+
+This project is licensed under the MIT License.
